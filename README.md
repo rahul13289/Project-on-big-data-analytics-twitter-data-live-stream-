@@ -16,6 +16,9 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 -->
+DATA LIVE STREAM:
+
+![image](https://github.com/rahul13289/Twitter-data-live-streamed-using-apache-flume/assets/97829880/130b40e4-d694-464e-8265-a20ef8b1da5b)
 
 # Welcome to Apache Flume!
 
